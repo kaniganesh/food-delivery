@@ -14,5 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://food-delivery-backend-3zkg.onrender.com/';
-export const currency = "₹";
+export const url = 'https://tomato-food-del-backend-p1ni.onrender.com'
